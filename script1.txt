@@ -1,0 +1,5 @@
+inicio
+<Obtener datos>
+<Limpiar datos>
+<Alojar datos en BD externa>
+fin
